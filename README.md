@@ -1,11 +1,11 @@
-About r-ggpackets
-=================
+About r-ggpackets-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggpackets-feedstock/blob/main/LICENSE.txt)
 
 Home: https://dgkf.github.io/ggpackets/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ggpackets-feedstock/blob/main/LICENSE.txt)
 
 Summary: Create groups of 'ggplot2' layers that can be easily migrated from one plot to another, reducing redundant code and improving the ability to format many plots that draw from the same source 'ggpacket' layers.
 
